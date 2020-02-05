@@ -1,0 +1,21 @@
+{
+    "name": "elieldepaula/router",
+    "description": "A simple router in PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eliel de Paula",
+            "email": "dev@elieldepaula.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "elieldepaula/containter": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Elieldepaula\\Router": "src"
+        }
+    }
+}
