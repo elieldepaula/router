@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Elieldepaula\\Router": "src"
+            "Elieldepaula\\Router\\": "src"
         }
     }
 }
