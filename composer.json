@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "elieldepaula/containter": "dev-master"
+        "elieldepaula/container": "dev-master"
     },
     "autoload": {
         "psr-4": {
